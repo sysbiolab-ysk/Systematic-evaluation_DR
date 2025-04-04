@@ -12,8 +12,6 @@ embedding sizes was investigated.
 
 
 ### Set up dependencies
-
-
 python = 3.11.11
 numpy = 2.0.2
 pandas = 2.2.2
