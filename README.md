@@ -16,14 +16,32 @@ embedding sizes was investigated.
 
 
 python = 3.11.11
+
+
 numpy = 2.0.2
+
+
 pandas = 2.2.2
+
+
 scikit-learn = 1.5.2
+
+
 nimfa = 1.4.0 
+
+
 phate = 1.0.11
+
+
 umap = 0.5.6
+
+
 trimap = 1.1.4
+
+
 pacmap = 0.7.3
+
+
 ivis = 2.0.11
 
 
