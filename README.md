@@ -1,8 +1,9 @@
 # Systematic-evaluation_DR
 -----
+code for "Systematic evaluation of dimensionality reduction methods for capturing transcriptomic signatures responding to drug treatments"
+
 
 ![Intro](https://github.com/sysbiolab-ysk/Systematic-evaluation_DR/blob/main/Data/Intro.png)
-code for "Systematic evaluation of dimensionality reduction methods for capturing transcriptomic signatures responding to drug treatments"
 
 
 Fig. 1: Schematic overview of the DR algorithm comparison framework. The Connectivity
