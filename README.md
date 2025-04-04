@@ -1,6 +1,7 @@
 # Systematic-evaluation_DR
 -----
 
+![Intro](https://github.com/sysbiolab-ysk/Systematic-evaluation_DR/blob/main/Data/Intro.png)
 code for "Systematic evaluation of dimensionality reduction methods for capturing transcriptomic signatures responding to drug treatments"
 
 
