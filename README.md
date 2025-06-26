@@ -12,7 +12,7 @@ embedding sizes was investigated.
 
 
 ### Set up dependencies
-python = 3.11.11
+python = 3.10.12
 
 
 numpy = 2.0.2
